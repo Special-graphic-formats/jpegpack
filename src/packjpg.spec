@@ -1,5 +1,5 @@
 Name:		packjpg
-Version:	2.5j
+Version:	2.5k
 Release:	1%{?dist}
 Summary:	Lossless JPEG re-compression
 URL:		http://www.elektronik.htw-aalen.de/packjpg/
